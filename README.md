@@ -16,7 +16,7 @@ For **day 1**, I write a script that outputs the following:
 I skipped this day but this is just me making up for it.
 For this day, the goal was to check if a user exits usinf an `if` statement and if not, user gets added.
 Commands used were:
-`id` - used to check if a user exits.
-`if` statements - for conditions where the user exists or not.
-`Read` - to collect output of the user name as a variable.
-`$?` - This shows the success of a previous command.
+1. `id` - used to check if a user exits.
+2. `if` statements - for conditions where the user exists or not.
+3. `Read` - to collect output of the user name as a variable.
+4. `$?` - This shows the success of a previous command.
